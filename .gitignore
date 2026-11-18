@@ -1,5 +1,0 @@
-# Sessão do navegador (contém seu login do Instagram) — NUNCA enviar ao GitHub
-sessao/
-__pycache__/
-*.pyc
-.venv/
